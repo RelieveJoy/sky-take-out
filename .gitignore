@@ -4,3 +4,5 @@
 *.class
 *Test.java
 **/test/
+# 敏感配置（阿里云/AKSK等）
+application-dev.yml
